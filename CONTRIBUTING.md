@@ -73,8 +73,8 @@ We welcome new ideas and feature requests! To request a feature, please open a n
 
 1. Ensure you have Java 21 or higher installed.
 2. Install [Maven](https://maven.apache.org/) for dependency management.
-3. Clone the repository: `git clone https://github.com/spring-boot-react-nextjs/spring-boot-i18n-internationalization.git`
-4. Navigate to the project directory: `cd spring-boot-i18n-internationalization`
+3. Clone the repository: `git clone https://github.com/spring-boot-react-nextjs/spring-boot-bean-validation.git`
+4. Navigate to the project directory: `cd spring-boot-bean-validation`
 5. Import the project into your IDE (Eclipse, IntelliJ IDEA, etc.).
 6. Run `mvn clean install` to install the dependencies.
 7. Run the application using your IDE or with the command: `mvn spring-boot:run`.
