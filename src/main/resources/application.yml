@@ -1,0 +1,23 @@
+##############################
+###### GENERAL SETTINGS ######
+##############################
+server:
+  port: 8081
+  error:
+    include-message: always
+    include-stacktrace: never
+
+spring:
+  application:
+    name: validation
+    error-uri: /error
+
+##############################
+######### I18N CONFIG ########
+##############################
+  messages:
+    basename: i18n/messages
+    encoding: UTF-8
+    cache-duration: 60
+    fallback-to-system-locale: false
+    logging-language: en
