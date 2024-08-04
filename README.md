@@ -6,9 +6,9 @@ In this article, we will delve into the significance of <strong>bean validation<
 
 <b>Author:</b> <a href="https://github.com/spring-boot-react-nextjs" target="_blank">spring-boot-react-nextjs</a><br>
 <b>Created:</b> 2024-07-05<br>
-<b>Last updated:</b> 2024-07-05
+<b>Last updated:</b> 2024-08-04
 
-[![](https://img.shields.io/badge/Spring%20Boot-8A2BE2)]() [![](https://img.shields.io/badge/release-Jun%2020,%202024-blue)]() [![](https://img.shields.io/badge/version-3.3.1-blue)]()
+[![](https://img.shields.io/badge/Spring%20Boot-8A2BE2)]() [![](https://img.shields.io/badge/release-Jul%2018,%202024-blue)]() [![](https://img.shields.io/badge/version-3.3.2-blue)]()
 
 ## 1. Why should you use Bean Validation?
 1. <b>Input Validation:</b> <strong>Bean validation</strong> provides a way to ensure that the data received from the client meets certain criteria before it is processed by the application.<br/> This can help prevent issues such as SQL injection, cross-site scripting (XSS), and other security vulnerabilities.
